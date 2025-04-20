@@ -1,4 +1,4 @@
-# ** Data Professionals survey Analysis - Power Bi Project**
+##  Data Professionals survey Analysis - Power Bi Project
 
 ## 📌 Overview
 
@@ -27,10 +27,10 @@ Cleaned and prepared raw survey data using **Power Query** (removed nulls, split
   - Happiness with salary
   - Happiness with work/life balance
 
-    ## 📊Dashbord
+## 📊Dashbord
+![Analysis Dashboard](Dashbord..png) 
 
 ## 📈 Insights Delivered
-
 - Which countries offer the highest salaries to data professionals  
 - How years of experience affect salary  
 - Popular tools across different data roles  
