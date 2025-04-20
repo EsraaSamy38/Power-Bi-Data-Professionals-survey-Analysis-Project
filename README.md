@@ -1,35 +1,38 @@
-# **Power BI Dashboard: Sales Performance Overview**
+# ** Data Professionals survey Analysis - Power Bi Project**
 
-## **📌 Project Overview**  
-A **data visualization and analysis** project built in **Power BI** to explore **company sales performance**. The dashboard provides insights into **monthly sales trends, regional performance, and product-wise revenue contribution**.
+## 📌 Overview
 
-## **🔧 Tools & Techniques Used**  
-✔ **Power BI** (DAX, Power Query, Visualizations)  
-✔ Data cleaning & transformation in Power Query  
-✔ Interactive filters & slicers  
-✔ Key metrics & KPIs  
-✔ Column charts, pie charts, and card visualizations  
+This project analyzes a global survey of data professionals to uncover trends in job roles, tools, salaries, education, and remote work. The data was cleaned and structured using Power Query Editor, then visualized in Power BI through interactive dashboards. The result is a clear, insight-driven report that reflects real-world business intelligence practices and highlights key patterns across the data industry.
 
-## **📊 Key Features**  
-- **Interactive dashboard** with drill-down by region and product  
-- **Key metrics** visualized (e.g., Total Revenue, Monthly Sales, Region-wise Sales)  
-- **Filters** for dynamic analysis by month, product, and region  
-- Clear layout for comparing performance across different categories  
+## 🛠️ Tools & Technologies
+- **Power BI Desktop** – Data visualization and dashboard creation  
+- **Power Query Editor** – Data cleaning and transformation  
+- **DAX** – Calculated columns, measures, and KPIs  
+- **Excel** – Data sources
 
-## **📂 How to Use**  
-1. Download the `.pbix` file from the `power_bi/` folder.  
-2. Open in **Power BI Desktop** (or Power BI Service).  
-3. Explore the **interactive dashboard** and filters.
+## 🔍 Key Features
 
-## **🔍 Key Insights**  
-1. **Sales peaked in December**, likely due to end-of-year promotions.  
-2. **Central region** outperformed other regions in both sales and revenue.  
-3. **Product Category A** contributed the most to total revenue consistently.  
+### 📊 Interactive Dashboard
+- Filterable by country 
+- Visuals include charts, cards
+- Simple, clear layout for easy insight discovery
 
-## **🖼️ Screenshots (Optional)**  
-![Dashboard Preview](assets/screenshots/dashboard.png)
+### ✏️ Data Cleaning & Formatting
+Cleaned and prepared raw survey data using **Power Query** (removed nulls, split columns, standardized values, etc.)
 
-## **📝 Notes**  
-- **Data Source**: Sample sales dataset provided for educational use  
-- **Limitations**: Time range limited to one year; no customer demographic data  
-- **Future Improvements**: Add forecasting, customer segmentation, and profit analysis  
+### 📈 KPIs & Metrics
+  - Programing languages frequently used
+  - Average salaries by job title
+  - Average salaries by job sex
+  - Happiness with salary
+  - Happiness with work/life balance
+
+    ## 📊Dashbord
+
+## 📈 Insights Delivered
+
+- Which countries offer the highest salaries to data professionals  
+- How years of experience affect salary  
+- Popular tools across different data roles  
+- The growth of remote work opportunities  
+- Relationship between education level and career path  
