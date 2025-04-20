@@ -30,6 +30,11 @@ Cleaned and prepared raw survey data using **Power Query** (removed nulls, split
 ## 📊Dashbord
 ![Analysis Dashboard](Dashbord..png) 
 
+## 🛠️How to Use
+1. Open the file [Excel_Bikes_Sales_Project](Power Bi _Data_Professionals _survey _Analysis _Project.pbix)
+2. Go to the **Dashboard** sheet to explore the visual summary
+3. Use the **slicers** to filter data by Marital Status, Region, Education
+4. Review the **Wokring sheet**, **Row Data** , **Pivot Tables**  sheets to see the backend logic and structure
 ## 📈 Insights Delivered
 - Which countries offer the highest salaries to data professionals  
 - How years of experience affect salary  
