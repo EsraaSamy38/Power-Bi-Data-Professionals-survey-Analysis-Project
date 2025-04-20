@@ -10,7 +10,7 @@ This project analyzes a global survey of data professionals to uncover trends in
 - **DAX** – Calculated columns, measures, and KPIs  
 - **Excel** – Data sources
 
-## 🔍 Key Features
+## 🌟 Key Features
 
 ### 📊 Interactive Dashboard
 - Filterable by country 
@@ -31,13 +31,13 @@ Cleaned and prepared raw survey data using **Power Query** (removed nulls, split
 ![Analysis Dashboard](Dashbord..png) 
 
 ## 🛠️How to Use
-1. Open the file [Excel_Bikes_Sales_Project](Power Bi _Data_Professionals _survey _Analysis _Project.pbix)
-2. Go to the **Dashboard** sheet to explore the visual summary
-3. Use the **slicers** to filter data by Marital Status, Region, Education
-4. Review the **Wokring sheet**, **Row Data** , **Pivot Tables**  sheets to see the backend logic and structure
-## 📈 Insights Delivered
-- Which countries offer the highest salaries to data professionals  
-- How years of experience affect salary  
-- Popular tools across different data roles  
-- The growth of remote work opportunities  
-- Relationship between education level and career path  
+1. Download the file [Power_Bi_Data_Professionals_survey_Analysis_Project](Power_Bi_Data_Professionals_survey_Analysis_Project.pbix)
+2. Explore the dashboard and visuals  
+3. Use filters to view data country
+4. Hover over charts for more details
+
+## 🔍Key Findings
+- The highest average salary for all countries is data scientists
+- The most used programig languge in inda is Python
+- Data architect male salay is more then female
+- Data analysts are happy work/life balanse than data architect
