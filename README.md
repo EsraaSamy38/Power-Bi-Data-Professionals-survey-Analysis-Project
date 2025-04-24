@@ -1,8 +1,5 @@
-##  Data Professionals survey Analysis - Power Bi Project
-
-## 📌 Overview
-
-This project analyzes a global survey of data professionals to uncover trends in job roles, tools, salaries, education, and remote work. The data was cleaned and structured using Power Query Editor, then visualized in Power BI through interactive dashboards. The result is a clear, insight-driven report that reflects real-world business intelligence practices and highlights key patterns across the data industry.
+##  🧑‍💻Data Professionals survey Analysis - Power Bi Project
+Analyzed global survey data on tools, roles, salaries, and remote work. Cleaned with Power Query and visualized in Power BI to highlight key industry insights.
 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop** – Data visualization and dashboard creation  
