@@ -14,7 +14,7 @@ Analyzed global survey data on tools, roles, salaries, and remote work. Cleaned 
 - Visuals include charts, cards
 - Simple, clear layout for easy insight discovery
 
-### ✏️ Data Cleaning & Formatting
+### 🧹 Data Cleaning & Formatting
 Cleaned and prepared raw survey data using **Power Query** (removed nulls, split columns, standardized values, etc.)
 
 ### 📈 KPIs & Metrics
