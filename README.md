@@ -4,7 +4,7 @@ Analyzed global survey data on tools, roles, salaries, and remote work. Cleaned 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop** – Data visualization and dashboard creation  
 - **Power Query Editor** – Data cleaning and transformation  
-- **DAX** – Calculated columns, measures, and KPIs  
+- **DAX** – Calculated columns, measures, and KPIs
 - **Excel** – Data sources
 
 ## 🌟 Key Features
